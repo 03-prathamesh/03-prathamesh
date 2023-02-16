@@ -31,5 +31,6 @@
 
 
 <div margin:"auto">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=03-prathamesh&" alt="03-prathamesh" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=03-prathamesh&" alt="03-prathamesh" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=03-prathamesh&&theme=tokyonight" alt="03-prathamesh" /></p>
 </div>
