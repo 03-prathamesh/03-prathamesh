@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GITHUB+PROFILE+...........)](https://git.io/typing-svg) 
 <h1 align="center">Hi 👋, I'm Prathamesh Amundkar</h1>
 <!-- <hr> -->
 
