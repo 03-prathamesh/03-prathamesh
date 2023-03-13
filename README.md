@@ -10,6 +10,8 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
 - 🔭 I’m Interested in Problem Solving
+  
+  - 🔭 I’m Currently Working on My SKILLS
 
 - 🌱 I’m currently learning **DSA**
 
